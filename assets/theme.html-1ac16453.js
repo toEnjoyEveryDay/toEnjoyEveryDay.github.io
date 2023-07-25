@@ -1,0 +1,1 @@
+import{_ as e,o as t,c as s,b as o}from"./app-eaea479b.js";const c={},_=o("p",null,"This is theme.",-1),r=[_];function a(n,l){return t(),s("div",null,r)}const h=e(c,[["render",a],["__file","E:/360MoveData/Users/17439/Desktop/blog/.vuepress/.temp/pages/docs/theme-reco/theme.html.vue"]]);export{h as default};

@@ -1,0 +1,1 @@
+import{_ as e,o as s,c as t}from"./app-eaea479b.js";const n={};function o(r,c){return s(),t("div")}const a=e(n,[["render",o],["__file","E:/360MoveData/Users/17439/Desktop/blog/.vuepress/.temp/pages/friendship-link/index.html.vue"]]);export{a as default};

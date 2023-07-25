@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-e4f1cb88","path":"/blogs/Demo/2019/092101.html","title":"生鲜O2O综合管理系统（PC端）项目介绍","lang":"en-US","frontmatter":{"title":"生鲜O2O综合管理系统（PC端）项目介绍","date":"2023-07-23T00:00:00.000Z","tags":["Vue"],"categories":["demo"]},"headers":[],"git":{},"filePathRelative":"blogs/Demo/2019/092101.md"}');export{e as data};

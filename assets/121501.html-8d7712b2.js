@@ -1,0 +1,1 @@
+import{_ as e,o as s,c as t,b as o}from"./app-eaea479b.js";const c={},_=o("p",null,"first page in category2",-1),a=[_];function r(n,l){return s(),t("div",null,a)}const i=e(c,[["render",r],["__file","E:/360MoveData/Users/17439/Desktop/blog/.vuepress/.temp/pages/blogs/Vue/2016/121501.html.vue"]]);export{i as default};

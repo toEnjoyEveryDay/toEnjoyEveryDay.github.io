@@ -1,0 +1,1 @@
+import{_ as e,o as s,c as t,b as o}from"./app-eaea479b.js";const c={},a=o("p",null,"This is api.",-1),_=[a];function r(n,i){return s(),t("div",null,_)}const p=e(c,[["render",r],["__file","E:/360MoveData/Users/17439/Desktop/blog/.vuepress/.temp/pages/docs/theme-reco/api.html.vue"]]);export{p as default};

@@ -1,0 +1,1 @@
+import{_ as e,o as t,c as s}from"./app-eaea479b.js";const c={};function o(r,a){return t(),s("div")}const _=e(c,[["render",o],["__file","E:/360MoveData/Users/17439/Desktop/blog/.vuepress/.temp/pages/categories/TypeScript/1/index.html.vue"]]);export{_ as default};
